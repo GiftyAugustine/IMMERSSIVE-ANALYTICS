@@ -1,0 +1,855 @@
+{
+    "m_SelectedDeviceId": "RZ2Y900F6CY",
+    "m_SelectedProcess": {
+        "deviceId": "RZ2Y900F6CY",
+        "name": "com.gifty.aqiar",
+        "processId": 19561,
+        "exited": false
+    },
+    "m_SelectedPriority": 0,
+    "m_KnownProcessesForSerialization": [
+        {
+            "deviceId": "10BD7C2K4D0003P",
+            "name": "com.gifty.aqiar",
+            "processId": 24311,
+            "exited": false
+        },
+        {
+            "deviceId": "10BD7C2K4D0003P",
+            "name": "com.gifty.aqiar",
+            "processId": 2090,
+            "exited": false
+        },
+        {
+            "deviceId": "10BD7C2K4D0003P",
+            "name": "com.gifty.aqiar",
+            "processId": 4899,
+            "exited": false
+        },
+        {
+            "deviceId": "10BD7C2K4D0003P",
+            "name": "com.gifty.aqiar",
+            "processId": 4011,
+            "exited": false
+        },
+        {
+            "deviceId": "10BD7C2K4D0003P",
+            "name": "com.gifty.aqiar",
+            "processId": 9118,
+            "exited": false
+        },
+        {
+            "deviceId": "10BD7C2K4D0003P",
+            "name": "com.gifty.aqiar",
+            "processId": 12114,
+            "exited": false
+        },
+        {
+            "deviceId": "10BD7C2K4D0003P",
+            "name": "com.gifty.aqiar",
+            "processId": 14432,
+            "exited": false
+        },
+        {
+            "deviceId": "10BD7C2K4D0003P",
+            "name": "com.gifty.aqiar",
+            "processId": 31574,
+            "exited": false
+        },
+        {
+            "deviceId": "10BD7C2K4D0003P",
+            "name": "com.gifty.aqiar",
+            "processId": 1119,
+            "exited": false
+        },
+        {
+            "deviceId": "10BD7C2K4D0003P",
+            "name": "com.gifty.aqiar",
+            "processId": 6887,
+            "exited": false
+        },
+        {
+            "deviceId": "10BD7C2K4D0003P",
+            "name": "com.gifty.aqiar",
+            "processId": 9664,
+            "exited": false
+        },
+        {
+            "deviceId": "10BD7C2K4D0003P",
+            "name": "com.gifty.aqiar",
+            "processId": 15792,
+            "exited": false
+        },
+        {
+            "deviceId": "10BD7C2K4D0003P",
+            "name": "com.gifty.aqiar",
+            "processId": 17647,
+            "exited": false
+        },
+        {
+            "deviceId": "10BD7C2K4D0003P",
+            "name": "com.gifty.aqiar",
+            "processId": 25648,
+            "exited": false
+        },
+        {
+            "deviceId": "10BD7C2K4D0003P",
+            "name": "com.gifty.aqiar",
+            "processId": 27597,
+            "exited": false
+        },
+        {
+            "deviceId": "10BD7C2K4D0003P",
+            "name": "com.gifty.aqiar",
+            "processId": 30634,
+            "exited": false
+        },
+        {
+            "deviceId": "10BD7C2K4D0003P",
+            "name": "com.gifty.aqiar",
+            "processId": 396,
+            "exited": false
+        },
+        {
+            "deviceId": "10BD7C2K4D0003P",
+            "name": "com.gifty.aqiar",
+            "processId": 848,
+            "exited": false
+        },
+        {
+            "deviceId": "10BD7C2K4D0003P",
+            "name": "com.gifty.aqiar",
+            "processId": 4028,
+            "exited": false
+        },
+        {
+            "deviceId": "10BD7C2K4D0003P",
+            "name": "com.gifty.aqiar",
+            "processId": 10217,
+            "exited": false
+        },
+        {
+            "deviceId": "10BD7C2K4D0003P",
+            "name": "com.gifty.aqiar",
+            "processId": 16814,
+            "exited": false
+        },
+        {
+            "deviceId": "10BD7C2K4D0003P",
+            "name": "com.gifty.aqiar",
+            "processId": 26777,
+            "exited": false
+        },
+        {
+            "deviceId": "10BD7C2K4D0003P",
+            "name": "com.gifty.aqiar",
+            "processId": 25753,
+            "exited": false
+        },
+        {
+            "deviceId": "10BD7C2K4D0003P",
+            "name": "com.gifty.aqiar",
+            "processId": 29504,
+            "exited": false
+        },
+        {
+            "deviceId": "10BD7C2K4D0003P",
+            "name": "com.gifty.aqiar",
+            "processId": 31092,
+            "exited": false
+        },
+        {
+            "deviceId": "10BD7C2K4D0003P",
+            "name": "com.gifty.aqiar",
+            "processId": 30631,
+            "exited": false
+        },
+        {
+            "deviceId": "10BD7C2K4D0003P",
+            "name": "com.gifty.aqiar",
+            "processId": 8205,
+            "exited": false
+        },
+        {
+            "deviceId": "10BD7C2K4D0003P",
+            "name": "com.gifty.aqiar",
+            "processId": 23031,
+            "exited": false
+        },
+        {
+            "deviceId": "10BD7C2K4D0003P",
+            "name": "com.gifty.aqiar",
+            "processId": 5203,
+            "exited": false
+        },
+        {
+            "deviceId": "10BD7C2K4D0003P",
+            "name": "com.gifty.aqiar",
+            "processId": 11936,
+            "exited": false
+        },
+        {
+            "deviceId": "10BD7C2K4D0003P",
+            "name": "com.gifty.aqiar",
+            "processId": 12802,
+            "exited": false
+        },
+        {
+            "deviceId": "10BD7C2K4D0003P",
+            "name": "com.gifty.aqiar",
+            "processId": 22495,
+            "exited": false
+        },
+        {
+            "deviceId": "10BD7C2K4D0003P",
+            "name": "com.gifty.aqiar",
+            "processId": 20857,
+            "exited": false
+        },
+        {
+            "deviceId": "10BD7C2K4D0003P",
+            "name": "com.gifty.aqiar",
+            "processId": 22568,
+            "exited": false
+        },
+        {
+            "deviceId": "10BD7C2K4D0003P",
+            "name": "com.gifty.aqiar",
+            "processId": 32695,
+            "exited": false
+        },
+        {
+            "deviceId": "10BD7C2K4D0003P",
+            "name": "com.gifty.aqiar",
+            "processId": 23689,
+            "exited": false
+        },
+        {
+            "deviceId": "10BD7C2K4D0003P",
+            "name": "com.gifty.aqiar",
+            "processId": 13794,
+            "exited": false
+        },
+        {
+            "deviceId": "10BD7C2K4D0003P",
+            "name": "com.gifty.aqiar",
+            "processId": 14678,
+            "exited": false
+        },
+        {
+            "deviceId": "10BD7C2K4D0003P",
+            "name": "com.gifty.aqiar",
+            "processId": 15537,
+            "exited": false
+        },
+        {
+            "deviceId": "10BD7C2K4D0003P",
+            "name": "com.gifty.aqiar",
+            "processId": 19657,
+            "exited": false
+        },
+        {
+            "deviceId": "R52Y7073SHK",
+            "name": "com.gifty.aqiar",
+            "processId": 30165,
+            "exited": false
+        },
+        {
+            "deviceId": "R52Y7073SHK",
+            "name": "com.gifty.aqiar",
+            "processId": 31063,
+            "exited": false
+        },
+        {
+            "deviceId": "R52Y7073SHK",
+            "name": "com.gifty.aqiar",
+            "processId": 23595,
+            "exited": false
+        },
+        {
+            "deviceId": "R52Y7073SHK",
+            "name": "com.gifty.aqiar",
+            "processId": 24261,
+            "exited": false
+        },
+        {
+            "deviceId": "R52Y7073SHK",
+            "name": "com.gifty.aqiar",
+            "processId": 27616,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ2Y900F6CY",
+            "name": "com.gifty.aqiar",
+            "processId": 17817,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ2Y900F6CY",
+            "name": "com.gifty.aqiar",
+            "processId": 19015,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ2Y900F6CY",
+            "name": "com.gifty.aqiar",
+            "processId": 22527,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ2Y900F6CY",
+            "name": "com.gifty.aqiar",
+            "processId": 23485,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ2Y900F6CY",
+            "name": "com.gifty.aqiar",
+            "processId": 25148,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ2Y900F6CY",
+            "name": "com.gifty.aqiar",
+            "processId": 27025,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ2Y900F6CY",
+            "name": "com.gifty.aqiar",
+            "processId": 29158,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ2Y900F6CY",
+            "name": "com.gifty.aqiar",
+            "processId": 30134,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ2Y900F6CY",
+            "name": "com.gifty.aqiar",
+            "processId": 30701,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ2Y900F6CY",
+            "name": "com.gifty.aqiar",
+            "processId": 15976,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ2Y900F6CY",
+            "name": "com.gifty.aqiar",
+            "processId": 16552,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ2Y900F6CY",
+            "name": "com.gifty.aqiar",
+            "processId": 18616,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ2Y900F6CY",
+            "name": "com.gifty.aqiar",
+            "processId": 19474,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ2Y900F6CY",
+            "name": "com.gifty.aqiar",
+            "processId": 20219,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ2Y900F6CY",
+            "name": "com.gifty.aqiar",
+            "processId": 21081,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ2Y900F6CY",
+            "name": "com.gifty.aqiar",
+            "processId": 22008,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ2Y900F6CY",
+            "name": "com.gifty.aqiar",
+            "processId": 23210,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ2Y900F6CY",
+            "name": "com.gifty.aqiar",
+            "processId": 24942,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ2Y900F6CY",
+            "name": "com.gifty.aqiar",
+            "processId": 28172,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ2Y900F6CY",
+            "name": "com.gifty.aqiar",
+            "processId": 28635,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ2Y900F6CY",
+            "name": "com.gifty.aqiar",
+            "processId": 31755,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ2Y900F6CY",
+            "name": "com.gifty.aqiar",
+            "processId": 32440,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ2Y900F6CY",
+            "name": "com.gifty.aqiar",
+            "processId": 2200,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ2Y900F6CY",
+            "name": "com.gifty.aqiar",
+            "processId": 4143,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ2Y900F6CY",
+            "name": "com.gifty.aqiar",
+            "processId": 11086,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ2Y900F6CY",
+            "name": "com.gifty.aqiar",
+            "processId": 26493,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ2Y900F6CY",
+            "name": "com.gifty.aqiar",
+            "processId": 28424,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ2Y900F6CY",
+            "name": "com.gifty.aqiar",
+            "processId": 30606,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ2Y900F6CY",
+            "name": "com.gifty.aqiar",
+            "processId": 1070,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ2Y900F6CY",
+            "name": "com.gifty.aqiar",
+            "processId": 3067,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ2Y900F6CY",
+            "name": "com.gifty.aqiar",
+            "processId": 4360,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ2Y900F6CY",
+            "name": "com.gifty.aqiar",
+            "processId": 9292,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ2Y900F6CY",
+            "name": "com.gifty.aqiar",
+            "processId": 23648,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ2Y900F6CY",
+            "name": "com.gifty.aqiar",
+            "processId": 30332,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ2Y900F6CY",
+            "name": "com.gifty.aqiar",
+            "processId": 32095,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ2Y900F6CY",
+            "name": "com.gifty.aqiar",
+            "processId": 2830,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ2Y900F6CY",
+            "name": "com.gifty.aqiar",
+            "processId": 10006,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ2Y900F6CY",
+            "name": "com.gifty.aqiar",
+            "processId": 11301,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ2Y900F6CY",
+            "name": "com.gifty.aqiar",
+            "processId": 13802,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ2Y900F6CY",
+            "name": "com.gifty.aqiar",
+            "processId": 15067,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ2Y900F6CY",
+            "name": "com.gifty.aqiar",
+            "processId": 18661,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ2Y900F6CY",
+            "name": "com.gifty.aqiar",
+            "processId": 20414,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ2Y900F6CY",
+            "name": "com.gifty.aqiar",
+            "processId": 22005,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ2Y900F6CY",
+            "name": "com.gifty.aqiar",
+            "processId": 22851,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ2Y900F6CY",
+            "name": "com.gifty.aqiar",
+            "processId": 28900,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ2Y900F6CY",
+            "name": "com.gifty.aqiar",
+            "processId": 8369,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ2Y900F6CY",
+            "name": "com.gifty.aqiar",
+            "processId": 15988,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ2Y900F6CY",
+            "name": "com.gifty.aqiar",
+            "processId": 19923,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ2Y900F6CY",
+            "name": "com.gifty.aqiar",
+            "processId": 24050,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ2Y900F6CY",
+            "name": "com.gifty.aqiar",
+            "processId": 27772,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ2Y900F6CY",
+            "name": "com.gifty.aqiar",
+            "processId": 28958,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ2Y900F6CY",
+            "name": "com.gifty.aqiar",
+            "processId": 30008,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ2Y900F6CY",
+            "name": "com.gifty.aqiar",
+            "processId": 1684,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ2Y900F6CY",
+            "name": "com.gifty.aqiar",
+            "processId": 3325,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ2Y900F6CY",
+            "name": "com.gifty.aqiar",
+            "processId": 4798,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ2Y900F6CY",
+            "name": "com.gifty.aqiar",
+            "processId": 6493,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ2Y900F6CY",
+            "name": "com.gifty.aqiar",
+            "processId": 7552,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ2Y900F6CY",
+            "name": "com.gifty.aqiar",
+            "processId": 8503,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ2Y900F6CY",
+            "name": "com.gifty.aqiar",
+            "processId": 9358,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ2Y900F6CY",
+            "name": "com.gifty.aqiar",
+            "processId": 10262,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ2Y900F6CY",
+            "name": "com.gifty.aqiar",
+            "processId": 10937,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ2Y900F6CY",
+            "name": "com.gifty.aqiar",
+            "processId": 11848,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ2Y900F6CY",
+            "name": "com.gifty.aqiar",
+            "processId": 13370,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ2Y900F6CY",
+            "name": "com.gifty.aqiar",
+            "processId": 15484,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ2Y900F6CY",
+            "name": "com.gifty.aqiar",
+            "processId": 18784,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ2Y900F6CY",
+            "name": "com.gifty.aqiar",
+            "processId": 20241,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ2Y900F6CY",
+            "name": "com.gifty.aqiar",
+            "processId": 21648,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ2Y900F6CY",
+            "name": "com.gifty.aqiar",
+            "processId": 22818,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ2Y900F6CY",
+            "name": "com.gifty.aqiar",
+            "processId": 23530,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ2Y900F6CY",
+            "name": "com.gifty.aqiar",
+            "processId": 24292,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ2Y900F6CY",
+            "name": "com.gifty.aqiar",
+            "processId": 25213,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ2Y900F6CY",
+            "name": "com.gifty.aqiar",
+            "processId": 25976,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ2Y900F6CY",
+            "name": "com.gifty.aqiar",
+            "processId": 27797,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ2Y900F6CY",
+            "name": "com.gifty.aqiar",
+            "processId": 28605,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ2Y900F6CY",
+            "name": "com.gifty.aqiar",
+            "processId": 30234,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ2Y900F6CY",
+            "name": "com.gifty.aqiar",
+            "processId": 14200,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ2Y900F6CY",
+            "name": "com.gifty.aqiar",
+            "processId": 15398,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ2Y900F6CY",
+            "name": "com.gifty.aqiar",
+            "processId": 16934,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ2Y900F6CY",
+            "name": "com.gifty.aqiar",
+            "processId": 17635,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ2Y900F6CY",
+            "name": "com.gifty.aqiar",
+            "processId": 19561,
+            "exited": false
+        }
+    ],
+    "m_Tags": {
+        "m_Entries": [
+            {
+                "m_Name": "Filter by all listed tags",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "No Filter",
+                "m_Selected": true
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Tag Control...",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Unity",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "CRASH",
+                "m_Selected": false
+            }
+        ]
+    },
+    "m_ExtraWindowState": {
+        "Type": 0,
+        "Height": 0.0
+    },
+    "m_MemoryViewerState": {
+        "MemoryWindowWidth": 170.0,
+        "MemoryTypeEnabled": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "MemoryGroup": 2,
+        "AutoCapture": true
+    },
+    "m_FilterOptions": {
+        "m_Filter": "",
+        "m_UseRegularExpressions": false,
+        "m_MatchCase": false
+    },
+    "m_SymbolPaths": [],
+    "m_CaptureVideoSettings": {
+        "TimeLimitEnabled": false,
+        "TimeLimit": 180,
+        "VideoSizeEnabled": false,
+        "VideoSizeX": 1280,
+        "VideoSizeY": 720,
+        "BitRateEnabled": false,
+        "BitRateK": 20000,
+        "DisplayIdEnabled": false,
+        "DisplayId": ""
+    },
+    "m_ScreenCaptureSettings": {
+        "Mode": 0,
+        "m_LastSaveLocation": [
+            "/Users/giftyaugustine/Desktop/PASSAU SEMESTERS/PASSAU SEM 4/Immerssive/Immerssive Globe Project",
+            "/Users/giftyaugustine/Desktop/PASSAU SEMESTERS/PASSAU SEM 4/Immerssive/Immerssive Globe Project"
+        ]
+    },
+    "m_QueryLayoutSettings": {
+        "LastLayoutSaveLocation": "",
+        "LastScreenshotSaveLocation": ""
+    },
+    "m_InputSettings": {
+        "ShiftModifier": false,
+        "SendText": "",
+        "PosixKillSignal": 0,
+        "TargetProcess": {
+            "deviceId": "",
+            "name": "",
+            "processId": 0,
+            "exited": false
+        }
+    },
+    "m_AutoScroll": 2
+}
