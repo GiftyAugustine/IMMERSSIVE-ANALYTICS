@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e0faa6f84859a4e358ceb2e3e22658fe
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - jsonFile: {fileID: 4900000, guid: e112450d3a021413fb0503d69eb85fd9, type: 3}
+  - pollutionRenderer: {instanceID: 0}
+  - dateSlider: {instanceID: 0}
+  - dateLabel: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
